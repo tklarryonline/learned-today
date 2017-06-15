@@ -2,7 +2,6 @@
 layout: post
 title: "Coffee: 'Go away, liver cancer!'"
 date: 2017-06-15 16:56:30 +1000
-categories: science research
 ---
 
 'I could be your pal in preventing liver cancer', said Coffee, after munching through 26 studies.
