@@ -1,1 +1,16 @@
+title: Learned today
+email: luan@tklarryonline.me
+description: A small repository to log down what I have learned day-to-day.
+baseurl: "/learned-today" # the subpath of your site, e.g. /blog
+url: "http://tklarryonline.me" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tklarryonline
+github_username: tklarryonline
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

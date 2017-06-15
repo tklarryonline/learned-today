@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+<section>
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <em>{{ post.date | date_to_string }}</em>
+  <p>{{ post.excerpt }}</p>
+</section>
+{% endfor %}
