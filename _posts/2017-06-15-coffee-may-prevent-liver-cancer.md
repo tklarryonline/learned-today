@@ -39,7 +39,6 @@ certain groups such as pregnant women.
 I drink 4–5 cups of coffee every day. Even though I had (or have) heart muscle disease, I have found that exercising
 actively, eating healthily with a lot of greens and drinking coffee daily do make me healthier and my heart stronger.
 
-Reference:
-- [The Guardian][1]
+Reference: [Drinking coffee may help prevent liver cancer, study suggests — The Guardian][1]
 
 [1]: https://www.theguardian.com/science/2017/may/25/drinking-coffee-may-help-prevent-liver-cancer-study-suggests

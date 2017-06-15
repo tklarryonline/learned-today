@@ -24,6 +24,6 @@ defaults:
     values:
       is_post: true
   - scope:
-      path: "assets/posts"
+      path: "assets/img"
     values:
       image: true

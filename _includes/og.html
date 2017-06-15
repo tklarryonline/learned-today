@@ -4,7 +4,7 @@
   {% assign type = "website" %}
 {% endif %}
 
-{% capture image_path %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ page.image.path }}{% endcapture %}
+{% capture image_path %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}/{{ page.image.path }}{% endcapture %}
 
   <meta property="og:type" content="{{ type }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
