@@ -17,3 +17,7 @@
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 {% include og.html page_title=page_title site_title=site_title %}
+
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include google_analytics.html %}
+{% endif %}
